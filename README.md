@@ -1,1 +1,1 @@
-# practic-nexus-sonar
+# practic-maven-nexus-sonar
